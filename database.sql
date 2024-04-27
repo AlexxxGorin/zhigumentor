@@ -4,8 +4,9 @@ create TABLE mentors(
     name VARCHAR(255),
     surname VARCHAR(255),
     img VARCHAR(999),
-    description VARCHAR(255),
+    description VARCHAR(999),
     courses INTEGER[],
     menti INTEGER[],
+    tags VARCHAR(999)[],
     properties JSONB
 );
