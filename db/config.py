@@ -1,0 +1,5 @@
+DB_USER_NAME = 'gen_user'
+DB_USER_PASSW0RD = 'vWZ!4&pe9E}*y4'
+DB_HOST = '82.97.254.160'
+DB_PORT = '5432'
+DB_NAME = 'default_db'
